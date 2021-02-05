@@ -1,0 +1,9 @@
+Entity\Book_.class
+Entity\Book.class
+dbfacade\BookFacade.class
+Entity\EntityTester.class
+Facade\CustomerFacade.class
+rest\ApplicationConfig.class
+Entity\Customer.class
+Entity\Customer_.class
+model\bookNoDB.class
